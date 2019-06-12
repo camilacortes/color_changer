@@ -1,0 +1,70 @@
+body{
+  font-family: 'Gothic A1', sans-serif;
+  /*font for the whole page */
+}
+
+#button-container{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+#green{
+  margin: 20px;
+  font-size: 30px;
+  width: 200px;
+  height: 140px;
+}
+#yellow{
+  margin: 20px;
+  font-size: 30px;
+  width: 200px;
+  height: 140px;
+}
+#red{
+  margin: 20px;
+  font-size: 30px;
+  width: 200px;
+  height: 140px;
+}
+
+.newColorButtons{
+  margin: 20px;
+  font-size: 30px;
+  width: 200px;
+  height: 140px;
+  color: white;
+}
+
+.color-container{
+  display: flex;
+  justify-content: center;
+}
+
+#colors{
+  display: flex;
+  justify-content: center;
+  width: 200px;
+  height: 50px;
+  font-size: 25px;
+}
+
+
+
+
+#add-new-container{
+  display: flex;
+  justify-content: center;
+}
+
+#add-new-btn{
+  width: 100px;
+  font-size: 20px;
+  margin: 20px;
+}
+
+.removeButton{
+  width: 100px;
+  font-size: 20px;
+  margin: 20px;
+}
